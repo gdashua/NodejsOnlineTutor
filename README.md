@@ -33,7 +33,7 @@ A simple Online Tutoring App
     <li>Admin signs up as a tutor but you can make a tutor of your choice an admin by giving them the admin role. Not all tutors must be admin. Just a few</li>
     </ul>
     
-    <h4><b>Tutors Priveleges</b><h4>
+    <h4>Tutors Priveleges<h4>
    <ul>
     <li>Tutors can register to take a subject in a category</li>
     <li>Tutors can see all subjects they registered to take</li>
