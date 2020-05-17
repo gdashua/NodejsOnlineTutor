@@ -1,12 +1,12 @@
 # NodejsOnlineTutor
 A simple Online Tutoring App
-<h4>Build With:<h4>
+<h4><b>Build With:</b><h4>
   <ul>
     <li>Node.js, Express.js, MongoDB, and Mongoose</li>
     <li>JSON Web token for authorization and authentication</li>
     <li>Bcrypt for password encryption</li>
   </ul>
-  <h4>General Privileges<h4>
+  <h4><b>General Privileges</b><h4>
    <ul>
     <li>Admin/Students /tutors can retrieve a subject in a category (by Id)</li>
     <li>Admin/Students /tutors can retrieve all subjects, by category</li>
@@ -16,7 +16,7 @@ A simple Online Tutoring App
     <li>Admin/Students /tutors can sign in.</li>
     <li>Bcrypt for password encryption</li>
   </ul>
-    <h4>Admin Privileges</h4>
+    <h4><b>Admin Privileges</b></h4>
     <ul>
     <li>Admin can create subjects under 3 categories: primary, JSS, SSS</li>
     <li>Admin can update a subject in a category (by Id)</li>
@@ -33,7 +33,7 @@ A simple Online Tutoring App
     <li>Admin signs up as a tutor but you can make a tutor of your choice an admin by giving them the admin role. Not all tutors must be admin. Just a few</li>
     </ul>
     
-    <h4>Tutors Priveleges<h4>
+    <h4><b>Tutors Priveleges</b><h4>
    <ul>
     <li>Tutors can register to take a subject in a category</li>
     <li>Tutors can see all subjects they registered to take</li>
@@ -41,11 +41,11 @@ A simple Online Tutoring App
     <li> Tutors can delete a registered subject</li>
   </ul>
   
-  <h4>Students Priveleges<h4>
+  <h4><b>Students Priveleges</b><h4>
    <ul>
     <li>Students can sign up</li>
     <li>Students can see all tutors taking a subject in a category</li>
      <li>Students can book lessons</li>
   </ul>
-   <h4>Status<h4>
+  <h4><b>Status</b><h4>
      <p>Work in progress</p>
